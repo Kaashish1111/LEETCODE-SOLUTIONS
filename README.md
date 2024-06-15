@@ -10,6 +10,7 @@ My leetcode solutions
 | [0069-sqrtx](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0263-ugly-number) |
 # Simulation
 |  |
 | ------- |
