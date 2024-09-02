@@ -47,6 +47,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
+| [0898-transpose-matrix](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0898-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,4 +68,12 @@ My leetcode solutions
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0898-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
