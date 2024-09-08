@@ -14,8 +14,6 @@ public:
         if (rev == palindrome){
             return true;
         }
-        else{
-            return false;
-        }
+        return false;
     } 
 };
