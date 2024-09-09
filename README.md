@@ -60,6 +60,7 @@ My leetcode solutions
 | [0007-reverse-integer](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,4 +83,16 @@ My leetcode solutions
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0898-transpose-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
