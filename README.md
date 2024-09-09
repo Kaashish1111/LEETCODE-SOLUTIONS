@@ -51,6 +51,7 @@ My leetcode solutions
 | [0035-search-insert-position](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0898-transpose-matrix](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0898-transpose-matrix) |
 ## Hash Table
 |  |
@@ -103,4 +104,5 @@ My leetcode solutions
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
