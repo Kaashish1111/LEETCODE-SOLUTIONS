@@ -46,6 +46,7 @@ My leetcode solutions
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
@@ -95,4 +96,8 @@ My leetcode solutions
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1013-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
