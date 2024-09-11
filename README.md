@@ -52,11 +52,13 @@ My leetcode solutions
 | [0189-rotate-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0898-transpose-matrix](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0898-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -71,6 +73,7 @@ My leetcode solutions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -79,6 +82,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
 |  |
 | ------- |
@@ -105,4 +109,5 @@ My leetcode solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
