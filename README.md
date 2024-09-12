@@ -53,6 +53,7 @@ My leetcode solutions
 | [0268-missing-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0898-transpose-matrix](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0898-transpose-matrix) |
 ## Hash Table
 |  |
