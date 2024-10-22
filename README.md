@@ -49,6 +49,7 @@ My leetcode solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0048-rotate-image) |
 | [0136-single-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
@@ -66,6 +67,7 @@ My leetcode solutions
 | ------- |
 | [0007-reverse-integer](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1013-fibonacci-number) |
@@ -89,6 +91,7 @@ My leetcode solutions
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0048-rotate-image) |
 | [0898-transpose-matrix](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0898-transpose-matrix) |
 ## Simulation
 |  |
