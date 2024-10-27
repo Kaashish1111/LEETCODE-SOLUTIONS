@@ -1,26 +1,19 @@
 #include <string>
-#include <cctype>
+#include <algorithm>
 
 class Solution {
 public:
     bool isPalindrome(std::string s) {
-        int left = 0, right = s.size() - 1;
+        // Convert to lowercase and remove non-alphanumeric characters
+        s.erase(std::remove_if(s.begin(), s.end(), [](char c) { return !isalnum(c); }), s.end());
+        std::transform(s.begin(), s.end(), s.begin(), ::tolower);
 
-        while (left < right) {
-            // Move left pointer forward if it's not an alphanumeric character
-            while (left < right && !isalnum(s[left])) left++;
-            // Move right pointer backward if it's not an alphanumeric character
-            while (left < right && !isalnum(s[right])) right--;
-
-            // Convert both characters to lowercase for case-insensitive comparison
-            if (tolower(s[left]) != tolower(s[right])) {
+        int len = s.size();
+        for (int i = 0; i < len / 2; i++) {
+            if (s[i] != s[len - 1 - i]) {
                 return false;
             }
-
-            left++;
-            right--;
         }
-
         return true;
     }
 };
