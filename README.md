@@ -58,6 +58,7 @@ My leetcode solutions
 | [0485-max-consecutive-ones](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0898-transpose-matrix) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ My leetcode solutions
 | [0268-missing-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0792-binary-search) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -90,6 +92,7 @@ My leetcode solutions
 | ------- |
 | [0268-missing-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
 |  |
 | ------- |
@@ -120,6 +123,7 @@ My leetcode solutions
 | [0283-move-zeroes](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
 | ------- |
