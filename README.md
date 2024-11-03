@@ -51,6 +51,7 @@ My leetcode solutions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
@@ -125,6 +126,7 @@ My leetcode solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -157,6 +159,7 @@ My leetcode solutions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0948-sort-an-array) |
 ## Counting
