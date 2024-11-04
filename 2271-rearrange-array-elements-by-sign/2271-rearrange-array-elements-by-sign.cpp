@@ -13,13 +13,12 @@ public:
             }
         }
 
-        vector<int> ans;
-        // Interleave the positive and negative numbers
-        for (int i = 0; i < positives.size(); i++) {
-            ans.push_back(positives[i]);  // Add positive
-            ans.push_back(negatives[i]);  // Add negative
+        // Fill nums with alternating positives and negatives
+        for(int i = 0; i < positives.size(); i++) {
+            nums[2 * i] = positives[i];       // Place positive numbers at even indices
+            nums[2 * i + 1] = negatives[i];    // Place negative numbers at odd indices
         }
 
-        return ans;
+        return nums;  // Return the rearranged array
     }
 };
