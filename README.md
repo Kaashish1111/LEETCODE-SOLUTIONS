@@ -48,6 +48,7 @@ My leetcode solutions
 | ------- |
 | [0001-two-sum](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0048-rotate-image) |
@@ -147,6 +148,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0189-rotate-array) |
