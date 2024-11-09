@@ -1,17 +1,14 @@
 class Solution {
 public:
     vector<vector<int>> generate(int numRows) {
-        vector<vector<int>> triangle;  // Result to store the rows of Pascal's triangle
-
+        vector<vector<int>> ans(numRows);
         for (int i = 0; i < numRows; i++) {
-            vector<int> row(i + 1, 1);  // Each row has 'i + 1' elements and starts with 1
+            // Initialize each row with 1s
+            ans[i] = vector<int>(i + 1, 1);
             for (int j = 1; j < i; j++) {
-                // Calculate each inner element as the sum of two elements above it
-                row[j] = triangle[i - 1][j - 1] + triangle[i - 1][j];
+                ans[i][j] = ans[i - 1][j] + ans[i - 1][j - 1];
             }
-            triangle.push_back(row);  // Add the row to the triangle
         }
-
-        return triangle;
+        return ans;
     }
 };
