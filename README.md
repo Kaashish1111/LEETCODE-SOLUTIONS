@@ -80,6 +80,7 @@ My leetcode solutions
 | [0792-binary-search](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0948-sort-an-array) |
+| [1603-running-sum-of-1d-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1603-running-sum-of-1d-array) |
 | [2122-count-special-quadruplets](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2122-count-special-quadruplets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -231,6 +232,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
+| [1603-running-sum-of-1d-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1603-running-sum-of-1d-array) |
 ## Union Find
 |  |
 | ------- |
