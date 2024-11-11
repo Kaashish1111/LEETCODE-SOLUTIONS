@@ -1,22 +1,20 @@
 class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {
-        int n = nums.size();
-        int start = 0, end = n - 1, index = n;
-        while (start <= end) {
-            int mid = start + (end - start) / 2;  // Corrected midpoint calculation
-            if (nums[mid] == target) {
-                index = mid;
-                break;
-            } 
-            else if (nums[mid] > target) {
-                end = mid - 1;
-                index = mid;
-            } 
-            else {
-                start = mid + 1;
+        int low = 0;
+        int high = nums.size() - 1;
+        int ans = nums.size();  // Default to the end if target is greater than all elements
+
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+            if (nums[mid] >= target) {
+                ans = mid;  // Update ans to mid, as we found a candidate position
+                high = mid - 1;  // Move left to check for earlier occurrences
+            } else {
+                low = mid + 1;  // Move right if nums[mid] < target
             }
         }
-        return index;
+        
+        return ans;
     }
 };
