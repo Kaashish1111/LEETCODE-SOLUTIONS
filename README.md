@@ -84,6 +84,7 @@ My leetcode solutions
 | [0560-subarray-sum-equals-k](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0898-transpose-matrix) |
+| [0907-koko-eating-bananas](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0948-sort-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1603-running-sum-of-1d-array) |
 | [2122-count-special-quadruplets](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2122-count-special-quadruplets) |
@@ -128,6 +129,7 @@ My leetcode solutions
 | [0493-reverse-pairs](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0907-koko-eating-bananas) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
