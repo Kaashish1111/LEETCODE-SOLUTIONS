@@ -1,16 +1,15 @@
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-        int count = 0, current = 1;
-        for (int i = 1; i < nums.size(); i++) {
-            if (nums[i] != nums[i - 1]) {
-                count = 0;
-                nums[current++] = nums[i];
-            } else {
-                count++;
-                if (count <= 1) nums[current++] = nums[i];
+        if (nums.size() <= 2) return nums.size(); 
+
+        int index = 2; // Start from the third position
+        for (int i = 2; i < nums.size(); i++) {
+            if (nums[i] != nums[index - 2]) { // Check if the current element can be included
+                nums[index] = nums[i];
+                index++;
             }
         }
-        return current;
+        return index; // The length of the modified array
     }
 };
