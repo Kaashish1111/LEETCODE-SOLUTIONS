@@ -117,6 +117,7 @@ My leetcode solutions
 | [0009-palindrome-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0066-plus-one) |
+| [0172-factorial-trailing-zeroes](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
