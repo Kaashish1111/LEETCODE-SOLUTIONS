@@ -290,4 +290,12 @@ My leetcode solutions
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0966-binary-subarrays-with-sum) |
+## Linked List
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0838-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
