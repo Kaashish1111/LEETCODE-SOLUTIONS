@@ -122,6 +122,7 @@ My leetcode solutions
 | [0231-power-of-two](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1013-fibonacci-number) |
+| [2083-three-divisors](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2083-three-divisors) |
 ## Binary Search
 |  |
 | ------- |
@@ -268,6 +269,7 @@ My leetcode solutions
 ## Enumeration
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2083-three-divisors) |
 | [2122-count-special-quadruplets](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2122-count-special-quadruplets) |
 ## Binary Indexed Tree
 |  |
@@ -298,4 +300,8 @@ My leetcode solutions
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0838-design-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
