@@ -9,7 +9,7 @@ public:
                 count++;
                 maxi=max(count,maxi);
             }
-            if(nums[i]==0){
+            if(nums[i]!=1){
                 count=0;
             }
         }
