@@ -81,6 +81,7 @@ My leetcode solutions
 | [0283-move-zeroes](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0540-single-element-in-a-sorted-array) |
@@ -109,6 +110,7 @@ My leetcode solutions
 | [0268-missing-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0966-binary-subarrays-with-sum) |
 | [2122-count-special-quadruplets](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2122-count-special-quadruplets) |
