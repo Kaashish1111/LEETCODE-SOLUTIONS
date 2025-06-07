@@ -15,8 +15,8 @@ public:
         reverse(nums.begin() + k, nums.end());
 
         // Print the rotated array (optional)
-        for (int i = 0; i < n; i++) {
-            cout << nums[i] << " ";
-        }
+        // for (int i = 0; i < n; i++) {
+        //     cout << nums[i] << " ";
+        // }
     }
 };
