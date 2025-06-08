@@ -14,14 +14,6 @@
 //         for (int i = 0; i < n; ++i) {
 //             reverse(matrix[i].begin(), matrix[i].end());
 //         }
-        
-//         // Optional: Print the rotated matrix
-//         for (int i = 0; i < n; ++i) {
-//             for (int j = 0; j < n; ++j) {
-//                 cout << matrix[i][j] << " ";
-//             }
-//             cout << endl;
-//         }
 //     }
 // };
 
