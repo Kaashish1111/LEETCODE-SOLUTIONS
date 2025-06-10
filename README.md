@@ -129,6 +129,7 @@ My leetcode solutions
 | [0189-rotate-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1013-fibonacci-number) |
 | [2083-three-divisors](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2083-three-divisors) |
 ## Binary Search
@@ -187,6 +188,7 @@ My leetcode solutions
 | ------- |
 | [0054-spiral-matrix](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0059-spiral-matrix-ii) |
+| [0412-fizz-buzz](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0412-fizz-buzz) |
 | [0898-transpose-matrix](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0898-transpose-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -233,6 +235,7 @@ My leetcode solutions
 | [0125-valid-palindrome](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0742-to-lower-case](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0742-to-lower-case) |
 | [2235-capitalize-the-title](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2235-capitalize-the-title) |
