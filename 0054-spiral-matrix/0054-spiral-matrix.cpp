@@ -9,7 +9,7 @@ public:
         int bottom=matrix.size()-1;
         int left=0;
         int right=matrix[0].size()-1;
-        while(left <= right && top <= bottom){
+        while(left <= right && top <= bottom ){
             
             for(int i = left; i <= right; i++){
                 ans.push_back(matrix[top][i]);
