@@ -20,36 +20,44 @@
 // };
 
 
-
-// optimal approch ->Moore's voting algorithm
-
+//  better approch (i thought of my own)
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        int candidate = nums[0];
-        int count = 1;
-        
-        // Find the candidate
-        for (int i = 1; i < nums.size(); i++) {
-            if (nums[i] == candidate) {
-                count++;
-            } else {
-                count--;
-                if (count == 0) {
-                    candidate = nums[i];
-                    count = 1;
-                }
-            }
-        }
-        
-        // Verify if candidate is actually the majority element
-        count = 0;
-        for (int num : nums) {
-            if (num == candidate) {
-                count++;
-            }
-        }
-        
-        return count > nums.size() / 2 ? candidate : -1;
+        sort(nums.begin(), nums.end());
+        return nums[nums.size() / 2];
     }
 };
+
+
+// optimal approch ->Moore's voting algorithm
+// class Solution {
+// public:
+//     int majorityElement(vector<int>& nums) {
+//         int candidate = nums[0];
+//         int count = 1;
+
+//         // Find the candidate
+//         for (int i = 1; i < nums.size(); i++) {
+//             if (nums[i] == candidate) {
+//                 count++;
+//             } else {
+//                 count--;
+//                 if (count == 0) {
+//                     candidate = nums[i];
+//                     count = 1;
+//                 }
+//             }
+//         }
+
+//         // Verify if candidate is actually the majority element
+//         count = 0;
+//         for (int num : nums) {
+//             if (num == candidate) {
+//                 count++;
+//             }
+//         }
+
+//         return count > nums.size() / 2 ? candidate : -1;
+//     }
+// };
