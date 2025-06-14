@@ -97,6 +97,7 @@ My leetcode solutions
 | [1603-running-sum-of-1d-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1791-richest-customer-wealth](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1791-richest-customer-wealth) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2122-count-special-quadruplets](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2122-count-special-quadruplets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -202,6 +203,7 @@ My leetcode solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1013-fibonacci-number) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Recursion
 |  |
 | ------- |
