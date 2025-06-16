@@ -99,6 +99,7 @@ My leetcode solutions
 | [1791-richest-customer-wealth](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1791-richest-customer-wealth) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2122-count-special-quadruplets](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2122-count-special-quadruplets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -135,6 +136,7 @@ My leetcode solutions
 | [1013-fibonacci-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2083-three-divisors](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -328,4 +330,5 @@ My leetcode solutions
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
