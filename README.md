@@ -152,6 +152,7 @@ My leetcode solutions
 | [0162-find-peak-element](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0493-reverse-pairs) |
@@ -338,4 +339,8 @@ My leetcode solutions
 | ------- |
 | [2083-three-divisors](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
