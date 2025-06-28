@@ -156,6 +156,7 @@ My leetcode solutions
 | [0278-first-bad-version](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -345,4 +346,5 @@ My leetcode solutions
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
