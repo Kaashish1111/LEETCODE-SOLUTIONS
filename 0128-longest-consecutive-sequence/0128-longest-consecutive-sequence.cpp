@@ -32,30 +32,54 @@
 // };
 
 // optimal
+// class Solution {
+// public:
+//     int longestConsecutive(vector<int>& nums) {
+//         if(nums.empty()){
+//             return 0;
+//         }
+//         int n=nums.size();
+//         sort(nums.begin(),nums.end());
+//         int longest=1;
+//         int count=1;
+//         for(int i=1;i<n;i++){
+//             if(nums[i]==nums[i-1]){
+//                 continue;  // duplicate hatao kashish ji
+//             }
+//             else if(nums[i]==nums[i-1]+1){
+//                 count++;
+//             }
+//             else{
+//                 count=1;
+//             }
+//             longest=max(longest,count);
+//         }
+//         return longest;
+//     }
+// };
+
+// Best with set data structure
 class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
-        if(nums.empty()){
-            return 0;
-        }
         int n=nums.size();
-        sort(nums.begin(),nums.end());
-        int longest=1;
-        int count=1;
-        for(int i=1;i<n;i++){
-            if(nums[i]==nums[i-1]){
-                continue;  // duplicate hatao kashish ji
+        if (nums.size() == 0) return 0;
+        int longest = 1; 
+        unordered_set<int> s;
+        for(int i=0;i<n;i++){
+            s.insert(nums[i]);
+        }
+        for(int no:s){
+            if(s.find(no-1)==s.end()){
+                int curr=no;
+                int count=1;
+                while(s.find(curr+1)!=s.end()){
+                    curr++;
+                    count++;
+                }
+                longest=max(longest,count);
             }
-            else if(nums[i]==nums[i-1]+1){
-                count++;
-            }
-            else{
-                count=1;
-            }
-            longest=max(longest,count);
         }
         return longest;
     }
 };
-
-// Best with set data structure
