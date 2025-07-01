@@ -83,6 +83,7 @@ My leetcode solutions
 | [0283-move-zeroes](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0493-reverse-pairs) |
@@ -119,6 +120,7 @@ My leetcode solutions
 | [0229-majority-element-ii](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
@@ -156,6 +158,7 @@ My leetcode solutions
 | [0278-first-bad-version](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0540-single-element-in-a-sorted-array) |
@@ -187,6 +190,7 @@ My leetcode solutions
 | [0229-majority-element-ii](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0948-sort-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
@@ -243,6 +247,7 @@ My leetcode solutions
 | [0287-find-the-duplicate-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
