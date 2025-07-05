@@ -98,6 +98,7 @@ My leetcode solutions
 | [0948-sort-an-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0966-binary-subarrays-with-sum) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1791-richest-customer-wealth](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1791-richest-customer-wealth) |
@@ -125,6 +126,7 @@ My leetcode solutions
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0966-binary-subarrays-with-sum) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2122-count-special-quadruplets](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2122-count-special-quadruplets) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Math
@@ -274,6 +276,7 @@ My leetcode solutions
 | ------- |
 | [0169-majority-element](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0229-majority-element-ii) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Heap (Priority Queue)
 |  |
