@@ -224,6 +224,7 @@ My leetcode solutions
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -342,6 +343,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0206-reverse-linked-list](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0838-design-linked-list) |
 ## Design
 |  |
