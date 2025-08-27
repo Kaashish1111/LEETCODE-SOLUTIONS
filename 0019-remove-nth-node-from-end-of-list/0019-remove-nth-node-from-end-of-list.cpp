@@ -49,3 +49,11 @@ public:
         return head;
     }
 };
+
+// optimal approch -> 2pointer approch
+// class Solution {
+// public:
+//     ListNode* removeNthFromEnd(ListNode* head, int k) {
+
+//     }
+// };
