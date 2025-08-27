@@ -8,52 +8,71 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-class Solution {
-public:
-    ListNode* removeNthFromEnd(ListNode* head, int k) {
-        if (!head) return head;
 
-        // 1. Count total number of nodes
-        int n = 0;
-        ListNode* temp = head;
-        while (temp) {
-            n++;
-            temp = temp->next;
-        }
-
-        // 2. Find position from start to delete
-        int pos = n - k + 1; // kth from end = (n-k+1)th from start
-
-        // 3. Delete node at position 'pos'
-        if (pos == 1) { // delete head
-            ListNode* t = head;
-            head = head->next;
-            delete t;
-            return head;
-        }
-
-        temp = head;
-        ListNode* prev = nullptr;
-        int count = 1;
-        while (temp) {
-            if (count == pos) {
-                prev->next = temp->next;
-                delete temp;
-                break;
-            }
-            prev = temp;
-            temp = temp->next;
-            count++;
-        }
-
-        return head;
-    }
-};
-
-// optimal approch -> 2pointer approch
 // class Solution {
 // public:
 //     ListNode* removeNthFromEnd(ListNode* head, int k) {
+//         if (!head) return head;
 
+//         // 1. Count total number of nodes
+//         int n = 0;
+//         ListNode* temp = head;
+//         while (temp) {
+//             n++;
+//             temp = temp->next;
+//         }
+
+//         // 2. Find position from start to delete
+//         int pos = n - k + 1; // kth from end = (n-k+1)th from start
+
+//         // 3. Delete node at position 'pos'
+//         if (pos == 1) { // delete head
+//             ListNode* t = head;
+//             head = head->next;
+//             delete t;
+//             return head;
+//         }
+
+//         temp = head;
+//         ListNode* prev = nullptr;
+//         int count = 1;
+//         while (temp) {
+//             if (count == pos) {
+//                 prev->next = temp->next;
+//                 delete temp;
+//                 break;
+//             }
+//             prev = temp;
+//             temp = temp->next;
+//             count++;
+//         }
+
+//         return head;
 //     }
 // };
+
+// optimal approch -> 2pointer approch
+class Solution {
+public:
+    ListNode* removeNthFromEnd(ListNode* head, int k) {
+        ListNode* fast=head;
+        for(int i=0;i<k;i++){
+            fast=fast->next;
+        }
+        ListNode* slow=head;
+         if(fast == nullptr) {
+            ListNode* delNode = head;
+            head = head->next;
+            delete delNode;
+            return head;
+        }
+        while(fast->next!=nullptr){
+            slow=slow->next;
+            fast=fast->next;
+        }
+        ListNode* delnode=slow->next;
+        slow->next=slow->next->next;
+        delete delnode;
+        return head;
+    }
+};
