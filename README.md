@@ -132,6 +132,7 @@ My leetcode solutions
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0048-rotate-image) |
@@ -224,6 +225,7 @@ My leetcode solutions
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1013-fibonacci-number) |
@@ -342,6 +344,7 @@ My leetcode solutions
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0838-design-linked-list) |
