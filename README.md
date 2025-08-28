@@ -347,6 +347,7 @@ My leetcode solutions
 | [0002-add-two-numbers](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0328-odd-even-linked-list) |
 | [0838-design-linked-list](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0838-design-linked-list) |
 ## Design
 |  |
