@@ -191,6 +191,7 @@ My leetcode solutions
 | [0056-merge-intervals](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0229-majority-element-ii) |
@@ -255,6 +256,7 @@ My leetcode solutions
 | [0125-valid-palindrome](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -285,6 +287,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0948-sort-an-array) |
@@ -302,6 +305,7 @@ My leetcode solutions
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0948-sort-an-array) |
 ## Bucket Sort
@@ -364,6 +368,7 @@ My leetcode solutions
 | [0061-rotate-list](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0234-palindrome-linked-list) |
