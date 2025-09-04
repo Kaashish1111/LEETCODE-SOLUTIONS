@@ -151,6 +151,7 @@ My leetcode solutions
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2083-three-divisors](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3830-find-closest-person](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/3830-find-closest-person) |
 ## Binary Search
 |  |
 | ------- |
