@@ -153,6 +153,7 @@ My leetcode solutions
 | [0231-power-of-two](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0412-fizz-buzz) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1013-fibonacci-number) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -195,6 +196,7 @@ My leetcode solutions
 | [0260-single-number-iii](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
