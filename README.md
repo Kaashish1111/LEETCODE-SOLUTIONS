@@ -217,6 +217,7 @@ My leetcode solutions
 | [0349-intersection-of-two-arrays](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0948-sort-an-array) |
+| [2887-sort-vowels-in-a-string](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
 |  |
@@ -307,6 +308,7 @@ My leetcode solutions
 | [0742-to-lower-case](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0742-to-lower-case) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2235-capitalize-the-title](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2235-capitalize-the-title) |
+| [2887-sort-vowels-in-a-string](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2887-sort-vowels-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
