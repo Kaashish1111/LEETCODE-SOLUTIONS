@@ -300,6 +300,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0344-reverse-string) |
@@ -425,5 +426,6 @@ My leetcode solutions
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
