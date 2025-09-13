@@ -140,6 +140,7 @@ My leetcode solutions
 | [2122-count-special-quadruplets](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2122-count-special-quadruplets) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |
@@ -310,6 +311,7 @@ My leetcode solutions
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2235-capitalize-the-title](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2235-capitalize-the-title) |
 | [2887-sort-vowels-in-a-string](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2887-sort-vowels-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -326,6 +328,7 @@ My leetcode solutions
 | [0229-majority-element-ii](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0229-majority-element-ii) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
