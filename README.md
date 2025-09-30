@@ -114,6 +114,7 @@ My leetcode solutions
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2122-count-special-quadruplets](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2122-count-special-quadruplets) |
 | [2245-destroying-asteroids](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2245-destroying-asteroids) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -223,6 +224,7 @@ My leetcode solutions
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0948-sort-an-array) |
 | [2245-destroying-asteroids](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2245-destroying-asteroids) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2887-sort-vowels-in-a-string](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
@@ -333,6 +335,7 @@ My leetcode solutions
 | [0169-majority-element](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0229-majority-element-ii) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Heap (Priority Queue)
