@@ -113,6 +113,7 @@ My leetcode solutions
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2122-count-special-quadruplets](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2122-count-special-quadruplets) |
+| [2245-destroying-asteroids](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2245-destroying-asteroids) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -221,6 +222,7 @@ My leetcode solutions
 | [0349-intersection-of-two-arrays](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0948-sort-an-array) |
+| [2245-destroying-asteroids](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2245-destroying-asteroids) |
 | [2887-sort-vowels-in-a-string](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
@@ -387,6 +389,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0011-container-with-most-water) |
+| [2245-destroying-asteroids](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2245-destroying-asteroids) |
 ## Sliding Window
 |  |
 | ------- |
