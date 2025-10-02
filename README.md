@@ -166,6 +166,7 @@ My leetcode solutions
 | [1642-water-bottles](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1642-water-bottles) |
 | [2083-three-divisors](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3336-water-bottles-ii](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/3336-water-bottles-ii) |
 | [3830-find-closest-person](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/3830-find-closest-person) |
 ## Binary Search
 |  |
@@ -248,6 +249,7 @@ My leetcode solutions
 | [0898-transpose-matrix](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1642-water-bottles) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3336-water-bottles-ii](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/3336-water-bottles-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
