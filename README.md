@@ -429,6 +429,7 @@ My leetcode solutions
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0155-min-stack) |
 | [0838-design-linked-list](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0838-design-linked-list) |
 ## Number Theory
 |  |
@@ -444,6 +445,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0735-asteroid-collision) |
