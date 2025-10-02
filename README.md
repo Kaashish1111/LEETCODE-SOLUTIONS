@@ -163,6 +163,7 @@ My leetcode solutions
 | [1013-fibonacci-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1013-fibonacci-number) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1642-water-bottles](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1642-water-bottles) |
 | [2083-three-divisors](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3830-find-closest-person](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/3830-find-closest-person) |
@@ -245,6 +246,7 @@ My leetcode solutions
 | [0412-fizz-buzz](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0735-asteroid-collision) |
 | [0898-transpose-matrix](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0898-transpose-matrix) |
+| [1642-water-bottles](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1642-water-bottles) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
