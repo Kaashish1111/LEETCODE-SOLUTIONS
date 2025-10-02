@@ -83,6 +83,7 @@ My leetcode solutions
 | [0189-rotate-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
@@ -345,6 +346,7 @@ My leetcode solutions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0239-sliding-window-maximum) |
 | [0948-sort-an-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -400,6 +402,7 @@ My leetcode solutions
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0966-binary-subarrays-with-sum) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -453,4 +456,12 @@ My leetcode solutions
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
