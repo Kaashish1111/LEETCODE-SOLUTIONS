@@ -180,6 +180,7 @@ My leetcode solutions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
@@ -201,6 +202,7 @@ My leetcode solutions
 | [0136-single-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
@@ -473,6 +475,7 @@ My leetcode solutions
 | [0102-binary-tree-level-order-traversal](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -486,6 +489,7 @@ My leetcode solutions
 | [0102-binary-tree-level-order-traversal](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0222-count-complete-tree-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
