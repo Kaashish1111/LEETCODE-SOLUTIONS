@@ -25,19 +25,14 @@ public:
         int maxArea = 0;
 
         while (left < right) {
-            // Calculate area
             int width = right - left;
             int length = min(height[left], height[right]);
             int area = width * length;
-            
-            // Update maximum area
             maxArea = max(maxArea, area);
-
-            // Move the pointer pointing to the smaller height
             if (height[left] < height[right]) {
-                left++; // Move left pointer to the right
+                left++; 
             } else {
-                right--; // Move right pointer to the left
+                right--;
             }
         }
         
