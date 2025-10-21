@@ -155,6 +155,7 @@ My leetcode solutions
 | [0007-reverse-integer](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0189-rotate-array) |
@@ -271,6 +272,7 @@ My leetcode solutions
 | [0021-merge-two-sorted-lists](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
