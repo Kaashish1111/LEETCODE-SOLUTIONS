@@ -487,6 +487,7 @@ My leetcode solutions
 | [0110-balanced-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0222-count-complete-tree-nodes) |
+| [0450-delete-node-in-a-bst](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0563-binary-tree-tilt) |
 ## Depth-First Search
@@ -511,6 +512,7 @@ My leetcode solutions
 | [0110-balanced-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0222-count-complete-tree-nodes) |
+| [0450-delete-node-in-a-bst](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0563-binary-tree-tilt) |
 ## Breadth-First Search
@@ -524,4 +526,8 @@ My leetcode solutions
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
