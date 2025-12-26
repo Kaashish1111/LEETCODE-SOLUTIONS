@@ -121,6 +121,7 @@ My leetcode solutions
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Hash Table
@@ -239,6 +240,7 @@ My leetcode solutions
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2887-sort-vowels-in-a-string](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Matrix
 |  |
 | ------- |
@@ -411,6 +413,7 @@ My leetcode solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0011-container-with-most-water) |
 | [2245-destroying-asteroids](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2245-destroying-asteroids) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Sliding Window
 |  |
 | ------- |
