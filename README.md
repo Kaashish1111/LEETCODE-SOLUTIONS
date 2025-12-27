@@ -336,6 +336,7 @@ My leetcode solutions
 | [0742-to-lower-case](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0742-to-lower-case) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2235-capitalize-the-title](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2235-capitalize-the-title) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2887-sort-vowels-in-a-string](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2887-sort-vowels-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
@@ -387,6 +388,7 @@ My leetcode solutions
 | [0724-find-pivot-index](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0966-binary-subarrays-with-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1603-running-sum-of-1d-array) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Union Find
 |  |
 | ------- |
