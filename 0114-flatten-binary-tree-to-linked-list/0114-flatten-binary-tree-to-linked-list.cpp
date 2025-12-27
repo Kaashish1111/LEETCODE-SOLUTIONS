@@ -24,7 +24,6 @@ public:
                 curr = curr->right;
             }
             curr->right = temp;
-            dfs(root->right);
         }
         dfs(root->right);
     }
