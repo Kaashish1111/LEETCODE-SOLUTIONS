@@ -119,6 +119,7 @@ My leetcode solutions
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2122-count-special-quadruplets](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2122-count-special-quadruplets) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2245-destroying-asteroids](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2245-destroying-asteroids) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -153,6 +154,7 @@ My leetcode solutions
 | [0966-binary-subarrays-with-sum](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0966-binary-subarrays-with-sum) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2122-count-special-quadruplets](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2122-count-special-quadruplets) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -259,6 +261,7 @@ My leetcode solutions
 | [0898-transpose-matrix](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0898-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1791-richest-customer-wealth) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Simulation
 |  |
 | ------- |
