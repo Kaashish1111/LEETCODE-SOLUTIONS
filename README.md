@@ -108,6 +108,7 @@ My leetcode solutions
 | [0907-koko-eating-bananas](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0966-binary-subarrays-with-sum) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1603-running-sum-of-1d-array) |
@@ -200,6 +201,7 @@ My leetcode solutions
 | [0792-binary-search](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0907-koko-eating-bananas) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -250,6 +252,7 @@ My leetcode solutions
 | [0073-set-matrix-zeroes](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0898-transpose-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1791-richest-customer-wealth) |
 ## Simulation
 |  |
