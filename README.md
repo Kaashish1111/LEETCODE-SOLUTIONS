@@ -152,6 +152,7 @@ My leetcode solutions
 | [0496-next-greater-element-i](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0966-binary-subarrays-with-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2122-count-special-quadruplets](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2122-count-special-quadruplets) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -243,6 +244,7 @@ My leetcode solutions
 | [0349-intersection-of-two-arrays](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0948-sort-an-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2245-destroying-asteroids](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2245-destroying-asteroids) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2887-sort-vowels-in-a-string](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2887-sort-vowels-in-a-string) |
@@ -516,6 +518,7 @@ My leetcode solutions
 | [0450-delete-node-in-a-bst](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0563-binary-tree-tilt) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -529,6 +532,7 @@ My leetcode solutions
 | [0144-binary-tree-preorder-traversal](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0563-binary-tree-tilt) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -546,6 +550,7 @@ My leetcode solutions
 | [0450-delete-node-in-a-bst](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0563-binary-tree-tilt) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -554,6 +559,7 @@ My leetcode solutions
 | [0102-binary-tree-level-order-traversal](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
