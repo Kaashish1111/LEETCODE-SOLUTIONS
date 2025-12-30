@@ -344,6 +344,7 @@ My leetcode solutions
 | [0020-valid-parentheses](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0165-compare-version-numbers) |
+| [0257-binary-tree-paths](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
@@ -515,6 +516,7 @@ My leetcode solutions
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0563-binary-tree-tilt) |
@@ -530,6 +532,7 @@ My leetcode solutions
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0563-binary-tree-tilt) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -547,6 +550,7 @@ My leetcode solutions
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0563-binary-tree-tilt) |
@@ -566,6 +570,7 @@ My leetcode solutions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
