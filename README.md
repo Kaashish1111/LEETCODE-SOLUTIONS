@@ -523,6 +523,7 @@ My leetcode solutions
 | [0450-delete-node-in-a-bst](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0563-binary-tree-tilt) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -541,6 +542,7 @@ My leetcode solutions
 | [0257-binary-tree-paths](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0563-binary-tree-tilt) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -563,6 +565,7 @@ My leetcode solutions
 | [0450-delete-node-in-a-bst](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0563-binary-tree-tilt) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -573,6 +576,7 @@ My leetcode solutions
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0226-invert-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Backtracking
 |  |
