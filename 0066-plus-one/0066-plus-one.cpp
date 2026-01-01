@@ -1,23 +1,20 @@
 class Solution {
 public:
-    vector<int> plusOne(vector<int>& arr) {
-        int carry = 1; 
-        int n = arr.size();
-        
-        for (int i = n - 1; i >= 0; i--) { 
-            arr[i] += carry;
-            if (arr[i] < 10) {
-                carry = 0;
-                break;
-            } else {
-                arr[i] = 0;  // reset digit, carry remains 1
-            }
+    vector<int> plusOne(vector<int>& digits) {
+        int n=digits.size();
+        if(digits[n-1]<9){
+            digits[n-1]+=1;
+            return digits;
         }
-
-        if (carry == 1) {
-            arr.insert(arr.begin(), 1); // add extra digit at front
+        int carry = 1;
+        for (int i = digits.size() - 1; i >= 0; i--) {
+            int sum = digits[i] + carry;
+            digits[i] = sum % 10;
+            carry = sum / 10;
         }
-
-        return arr;
+        if (carry) {
+            digits.insert(digits.begin(), 1);
+        }
+        return digits;
     }
 };
