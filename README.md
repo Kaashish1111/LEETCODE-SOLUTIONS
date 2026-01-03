@@ -158,6 +158,7 @@ My leetcode solutions
 | [1510-find-lucky-integer-in-an-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2122-count-special-quadruplets](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2122-count-special-quadruplets) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -531,6 +532,7 @@ My leetcode solutions
 | [0662-maximum-width-of-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -551,6 +553,7 @@ My leetcode solutions
 | [0662-maximum-width-of-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -577,6 +580,7 @@ My leetcode solutions
 | [0662-maximum-width-of-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -590,6 +594,7 @@ My leetcode solutions
 | [0662-maximum-width-of-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Backtracking
 |  |
 | ------- |
