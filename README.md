@@ -111,6 +111,7 @@ My leetcode solutions
 | [0948-sort-an-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0966-binary-subarrays-with-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1390-four-divisors](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1390-four-divisors) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1603-running-sum-of-1d-array) |
@@ -178,6 +179,7 @@ My leetcode solutions
 | [0412-fizz-buzz](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0412-fizz-buzz) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1013-fibonacci-number) |
+| [1390-four-divisors](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1390-four-divisors) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1642-water-bottles](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1642-water-bottles) |
