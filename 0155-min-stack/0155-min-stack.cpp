@@ -1,55 +1,35 @@
 class MinStack {
-private:
-    stack<long long> st;   // store either real value or encoded value
-    long long mini;        // current minimum
 
+    stack<int> s1,s2;
 public:
     MinStack() {
-        mini = LLONG_MAX;
+        
     }
     
-    void push(int value) {
-        long long v = value;
-        if (st.empty()) {
-            st.push(v);
-            mini = v;
-        } else {
-            if (v > mini) {
-                st.push(v);               // normal push
-            } else {
-                // store encoded value and update mini
-                st.push(2 * v - mini);
-                mini = v;
-            }
+    void push(int val) {
+        s1.push(val);
+        if(s2.empty() || s2.top()>=val){
+            s2.push(val);
         }
     }
     
     void pop() {
-        if (st.empty()) return;
-        long long x = st.top(); st.pop();
-        if (x < mini) {
-            // x is encoded value, restore previous minimum
-            mini = 2 * mini - x;
+        if(s1.top()==s2.top()){
+            s2.pop();
         }
-        if (st.empty()) {
-            // reset mini so stack-empty state is consistent
-            mini = LLONG_MAX;
-        }
+        s1.pop();
     }
     
     int top() {
-        if (st.empty()) return -1;       // or throw
-        long long x = st.top();
-        if (x > mini) return (int)x;     // real value on top
-        return (int)mini;                // encoded -> actual top is mini
+        int ans= s1.top();
+        return ans;
     }
     
     int getMin() {
-        if (st.empty()) return -1;       // or throw
-        return (int)mini;
+        int ans= s2.top();
+        return ans;
     }
 };
-
 
 /**
  * Your MinStack object will be instantiated and called as such:
