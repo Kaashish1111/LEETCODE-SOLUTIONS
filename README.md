@@ -281,6 +281,7 @@ My leetcode solutions
 | [0898-transpose-matrix](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1642-water-bottles) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2390-removing-stars-from-a-string](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2390-removing-stars-from-a-string) |
 | [3336-water-bottles-ii](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/3336-water-bottles-ii) |
 ## Dynamic Programming
 |  |
@@ -359,6 +360,7 @@ My leetcode solutions
 | [0742-to-lower-case](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0742-to-lower-case) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2235-capitalize-the-title](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2235-capitalize-the-title) |
+| [2390-removing-stars-from-a-string](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2390-removing-stars-from-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2887-sort-vowels-in-a-string](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2887-sort-vowels-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -499,6 +501,7 @@ My leetcode solutions
 | [0234-palindrome-linked-list](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0735-asteroid-collision) |
+| [2390-removing-stars-from-a-string](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
