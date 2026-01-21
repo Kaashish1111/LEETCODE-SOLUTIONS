@@ -347,6 +347,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Kaashish1111/LEETCODE-SOLUTIONS/tree/master/0125-valid-palindrome) |
